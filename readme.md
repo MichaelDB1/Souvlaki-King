@@ -13,5 +13,5 @@ This is the official ZURB Template for use with [Foundation for Sites](http://fo
   - JavaScript compression
   - Image compression
 
-## Further Info to be added bellow test test
+## Further Info to be added bellow
 
